@@ -1,0 +1,13 @@
+sourceopenai-whisper
+customtkinter~=5.2.2
+pygame~=2.6.0
+ctranslate2>=4.0,<5
+huggingface_hub>=0.13
+tokenizers>=0.13,<1
+onnxruntime>=1.14,<2 
+av>=11
+tqdm
+pydub~=0.25.1
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+torchaudio --index-url https://download.pytorch.org/whl/cu121
